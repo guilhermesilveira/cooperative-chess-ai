@@ -1,0 +1,12 @@
+# Cooperative Chess
+
+Guilherme's chess is very simple. It is chess with two small changes:
+1. Your score is the number of turns both you and co-player have taken.
+2. If there is a piece you can capture, you must capture it.
+
+The change in the score system creates a real cooperative game.
+
+The second change is a change in the movement system. This creates the opportunity for teaching that even in cooperative situations, someone - or both or all sides - might be losing something.
+It also changes the chess strategy completely as strong defenses might become weak strategies as they will promote a **many pieces are gone at once** situation.
+
+Note: Of course the player can try to make the game slower by avoiding captures and paw moves, but all chess rules applies and at some point you will need to move that pawn. This rule can be made stronger by adding an extra rule that the same piece can not be moved twice in a row.
